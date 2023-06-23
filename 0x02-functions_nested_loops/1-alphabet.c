@@ -2,19 +2,16 @@
 
 /**
  * print_alphabet - entry point
- *
- * Decription: Prints alphabet in lowercase, followed by new line
- *
- * Return: Always 0 (Success)
+ * Return: void
  */
 
 void print_alphabet(void)
 {
-	char alphabet;
+	char c;
 
-	for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
+	for (c = 'a'; c <= 'z'; c++)
 	{
-		_putchar(alphabet);
+	_putchar(c);
 	}
 
 	_putchar('\n');
