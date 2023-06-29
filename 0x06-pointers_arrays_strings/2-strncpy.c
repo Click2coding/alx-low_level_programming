@@ -1,4 +1,4 @@
-#include <stdio.h>
+
 
 /**
  * _strncpy - copies n bytes of a sttring to a given destination
