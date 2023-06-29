@@ -1,4 +1,4 @@
-#include <stdio.h>
+
 
 /**
  * _strncat - copies n bytes from speciified string
